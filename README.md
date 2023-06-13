@@ -13,7 +13,7 @@ Foi utilizada algumas métricas para avaliação final do modelo, afim de futura
 
 ## Escolha dos melhores parâmetros
 
-Foi realizada uma lógica simples à qual testa diversas combinações de parâmetros do calculo de Sarima, utilizando como métrica de "melhor combinação" o teste de .aicc
+Foi realizada uma lógica simples à qual testa diversas combinações de parâmetros do calculo de Sarima (Método de escolha de hiper-parâmetros Random Search), utilizando como métrica de "melhor combinação" o teste de .aicc
 
 ## Divisão de Treino e Teste
 
